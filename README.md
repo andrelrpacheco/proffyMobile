@@ -3,7 +3,7 @@
 Aplicação desenvolvida durante a semana do NLW(Next Level Week). Essa aplicação consiste em permitir que pessoas interessadas
 em dar aulas faça seu cadastro, também para aqueles que desejam estudar, etc. A aplicação na sua versão 1.0, foi desenvolvida com:
 
-#### **React Native, TypeScript, React Navigation(Stack e Tabs), Hooks, Vector Icons**
+#### **React Native, TypeScript, React Navigation(Stack e Tabs), Hooks, AsyncStorage, Axios, Vector Icons**
 
 Para visualização ou até mesmo execução do projeto, faça clone do projeto para sua máquina e em seguida, utlizando um terminal, execute os seguintes comandos:
 
