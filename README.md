@@ -20,7 +20,8 @@ seguinte comandos em ordem:
 &nbsp;
 4- rm -rf ios/Podfile.lock
 
-Em seguida excute:
+&nbsp;
+**Em seguida excute:**
 
 &nbsp;
 1- npm install ou yarn - **Isso instalará/Atualizará as dependências no projeto.**
@@ -34,7 +35,8 @@ Em seguida excute:
 &nbsp;
 4- cd .. - **Volta para a pasta principal do projeto**
 
-Por fim faça o build do projeto com o comando:
+&nbsp;
+**Por fim faça o build do projeto com o comando:**
 
 &nbsp;
 -react-native run-ios - **Para IOS**
