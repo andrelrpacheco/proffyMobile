@@ -26,7 +26,7 @@ Para visualização ou até mesmo execução do projeto, faça clone do projeto 
 1- npm install ou yarn - **Isso instalará/Atualizará as dependências no projeto.**
 
 &nbsp;
-2- cd ios - **Entre na pasta ios do projeto**
+2- cd ios - **Entra na pasta ios do projeto**
 
 &nbsp;
 3- pod install - **Isso instalará/Atualizará a pasta Pods**
