@@ -21,7 +21,7 @@ seguinte comandos em ordem:
 4- rm -rf ios/Podfile.lock
 
 &nbsp;
-**Em seguida excute:**
+**Em seguida execute:**
 
 &nbsp;
 1- npm install ou yarn - **Isso instalará/Atualizará as dependências no projeto.**
