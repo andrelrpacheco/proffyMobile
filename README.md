@@ -8,6 +8,7 @@ em dar aulas faça seu cadastro, também para aqueles que desejam estudar, etc. 
 Para visualização ou até mesmo execução do projeto, faça clone do projeto para sua máquina e em seguida um terminal execute os
 seguinte comandos em ordem:
 
+&nbsp;
 1- rm -rf node_modules
 
 &nbsp;
