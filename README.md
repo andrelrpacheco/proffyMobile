@@ -5,7 +5,7 @@ em dar aulas faça seu cadastro, também para aqueles que desejam estudar, etc. 
 
 #### **React Native, TypeScript, React Navigation(Stack e Tabs), Hooks, Vector Icons**
 
-Para visualização ou até mesmo execução do projeto, faça clone do projeto para sua máquina e em seguida, utlizando um terminal, execute os seguinte comandos:
+Para visualização ou até mesmo execução do projeto, faça clone do projeto para sua máquina e em seguida, utlizando um terminal, execute os seguintes comandos:
 
 &nbsp;
 1- rm -rf node_modules
