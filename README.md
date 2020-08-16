@@ -8,9 +8,18 @@ em dar aulas faça seu cadastro, também para aqueles que desejam estudar, etc. 
 Para visualização ou até mesmo execução do projeto, faça clone do projeto para sua máquina e em seguida um terminal execute os
 seguinte comandos em ordem:
 
-1- rm -rf node_modules &nbsp;
-2- rm -rf package.lock &nbsp;
-3- rm -rf ios/Pods &nbsp;
+1- rm -rf node_modules
+
+
+&nbsp;
+2- rm -rf package.lock 
+
+
+&nbsp;
+3- rm -rf ios/Pods 
+
+
+&nbsp;
 4- rm -rf ios/Podfile.lock
 
 Em seguida excute:
