@@ -11,20 +11,32 @@ seguinte comandos em ordem:
 1- rm -rf node_modules
 
 &nbsp;
-2- rm -rf package.lock 
+2- rm -rf package.lock
 
 &nbsp;
-3- rm -rf ios/Pods 
+3- rm -rf ios/Pods
 
 &nbsp;
 4- rm -rf ios/Podfile.lock
 
 Em seguida excute:
+
+&nbsp;
 1- npm install ou yarn - **Isso instalará/Atualizará as dependências no projeto.**
+
+&nbsp;
 2- cd ios - **Entre na pasta ios do projeto**
+
+&nbsp;
 3- pod install - **Isso instalará/Atualizará a pasta Pods**
+
+&nbsp;
 4- cd .. - **Volta para a pasta principal do projeto**
 
 Por fim faça o build do projeto com o comando:
+
+&nbsp;
 -react-native run-ios - **Para IOS**
+
+&nbsp;
 -react-native run-android - **Para Android**
