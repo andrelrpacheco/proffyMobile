@@ -9,10 +9,13 @@ Para visualização ou até mesmo execução do projeto, faça clone do projeto 
 seguinte comandos em ordem:
 
 1- rm -rf node_modules
+
 &nbsp;
 2- rm -rf package.lock 
+
 &nbsp;
 3- rm -rf ios/Pods 
+
 &nbsp;
 4- rm -rf ios/Podfile.lock
 
