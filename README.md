@@ -42,3 +42,6 @@ Para visualização ou até mesmo execução do projeto, faça clone do projeto 
 
 &nbsp;
 -react-native run-android - **Para Android**
+
+
+Obs: Caso queria fazer uso da Api, busque pelo projeto proffyApi e faça o clone. Após isso, em um terminal, execute npm install ou yarn e depois rode o comando yarn start para deixar a api em execução.
